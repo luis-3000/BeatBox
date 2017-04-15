@@ -1,6 +1,7 @@
 package com.joseluiscastillocs.android.beatbox;
 
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
+//import android.app.Fragment;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -20,7 +21,8 @@ public class BeatBoxFragment extends Fragment {
     }
 
     @Override
-    public View onCreate (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+    public View onCreateView (LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+
         View view = inflater.inflate(R.layout.fragment_beat_box, container, false);
 
         RecyclerView recyclerView = (RecyclerView) view.findViewById(R.id.fragment_beat_box_recycler_view);
@@ -28,6 +30,9 @@ public class BeatBoxFragment extends Fragment {
         /* This LayoutManager lays out items on a grid, so that there are multiple items on each line.
         *  3 columns are indicated as the desired number of columns. */
         recyclerView.setLayoutManager(new GridLayoutManager(getActivity(), 3));
+
+        /* After setting up the SoundAdapter class below, I wire it up here */
+        recyclerView.setAdapter(new SoundAdapter());
 
         return view;
     }
@@ -38,6 +43,7 @@ public class BeatBoxFragment extends Fragment {
         private Button mButton;
 
         public SoundHolder (LayoutInflater inflater, ViewGroup container) {
+
             super(inflater.inflate (R.layout.list_item_sound, container, false));
 
             mButton = (Button) itemView.findViewById(R.id.list_item_sound_button);
@@ -48,7 +54,8 @@ public class BeatBoxFragment extends Fragment {
     private class SoundAdapter extends RecyclerView.Adapter<SoundHolder> {
 
         @Override
-        public SoundHolder oncreateViewHolder (ViewGroup parent, int viewType) {
+        public SoundHolder onCreateViewHolder (ViewGroup parent, int viewType) {
+
             LayoutInflater inflater = LayoutInflater.from(getActivity());
 
             return new SoundHolder(inflater, parent);
