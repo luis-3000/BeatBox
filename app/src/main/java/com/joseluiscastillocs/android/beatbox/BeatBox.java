@@ -2,6 +2,8 @@ package com.joseluiscastillocs.android.beatbox;
 
 import android.content.Context;
 import android.content.res.AssetManager;
+import android.media.AudioManager;
+import android.media.SoundPool;
 import android.util.Log;
 
 import java.io.IOException;
@@ -17,6 +19,10 @@ public class BeatBox {
 
     private static final String SOUNDS_FOLDER = "sample_sounds";
 
+    private static final int MAX_SOUNDS = 5;
+
+    private SoundPool mSoundPool;
+
     /* Assets are accessed using the AssetManager class.
     * Since I can get an AssetManager from any Context, I use
     * a constructor that takes in a 'Context' as a dependency, pulls out
@@ -25,6 +31,8 @@ public class BeatBox {
 
     public BeatBox (Context context) {
         mAssets = context.getAssets();
+        // This old constructor is deprecated, but we need it for compatibility
+        mSoundPool = new SoundPool (MAX_SOUNDS, AudioManager.STREAM_MUSIC, 0);
         loadSounds();
     }
 
