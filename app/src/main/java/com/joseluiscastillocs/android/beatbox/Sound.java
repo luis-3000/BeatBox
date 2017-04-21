@@ -34,7 +34,7 @@ public class Sound {
     }
 
 
-    public Integer getmSoundId() {
+    public Integer getSoundId() {
         return mSoundId;
     }
 

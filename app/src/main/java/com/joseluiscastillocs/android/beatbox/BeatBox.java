@@ -8,6 +8,7 @@ import android.media.SoundPool;
 import android.util.Log;
 
 import java.io.IOException;
+import java.io.InterruptedIOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -76,6 +77,18 @@ public class BeatBox {
         // Load a file into the SouldPool for later playback
         int soundId = mSoundPool.load(afd, 1);
         sound.setSoundId(soundId);
+    }
+
+    /* Play the sounds. */
+    public void play (Sound sound) {
+        Integer soundId = sound.getSoundId();
+        if (soundId == null) { // Did the sound fail to load?
+            return;
+        }
+
+        // Play the sound. Parameters are: soundId, volume on the left, volume on the right, priority
+        // (which is ignored in this case), whether the audio should loop, and playback rate
+        mSoundPool.play(soundId, 1.0f, 1.0f, 1, 0, 1.0f);
     }
 
 }
