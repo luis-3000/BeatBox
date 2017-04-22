@@ -27,6 +27,7 @@ public class BeatBoxFragment extends Fragment {
     @Override
     public void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setRetainInstance(true); // Retain the fragment to handle rotational changes correctly
         mBeatBox = new BeatBox(getActivity());
     }
 
