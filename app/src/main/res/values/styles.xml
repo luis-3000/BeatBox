@@ -3,9 +3,14 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
     </style>
-        <!-- Customize your theme here. -->
-        <style name="BeatBoxButton">
-            <item name="android:background">@color/dark_blue</item>
-        </style>
+
+    <!-- Customize your theme here. -->
+    <style name="BeatBoxButton">
+        <item name="android:background">@color/dark_blue</item>
+    </style>
+
+    <style name = "BeatBoxButton.Strong">
+        <item name="android:textStyle">bold</item>
+    </style>
 
 </resources>
