@@ -9,7 +9,7 @@
 
     <!-- Customize your theme here. -->
     <style name="BeatBoxButton">
-        <item name="android:background">@color/dark_blue</item>
+        <item name="android:background">@color/soothing_blue</item>
     </style>
 
     <style name = "BeatBoxButton.Strong">
