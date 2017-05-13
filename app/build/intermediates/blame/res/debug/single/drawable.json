@@ -20,6 +20,10 @@
         "source": "/Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
+        "merged": "/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/res/merged/debug/drawable/button_beat_box_normal.xml",
+        "source": "/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beat_box_normal.xml"
+    },
+    {
         "merged": "/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/res/drawable/abc_seekbar_track_material.xml"
     },
