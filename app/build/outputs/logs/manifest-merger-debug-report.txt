@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/joseluiscastillo/.android/build-cache/4c2b7881ebe654b7c1423f9732d9d0d4637e26c5/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/joseluiscastillo/.android/build-cache/3dea64b96a953c8380ee528bfbebec2d43fd4613/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/joseluiscastillo/.android/build-cache/adb7bb469a87cb7794ee7b7acecd163aac3ea934/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joseluiscastillo/.android/build-cache/6442e85f39233dbddb15007af0cc265a671a9f9e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/0fbf0c1ae19f73c2e71a47e0b077ed2fe1e214db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/c58e12c6bb73737a92fe9581407f930f83cd1e91/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.joseluiscastillocs.android.beatbox.BeatBoxActivity
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:11:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/joseluiscastillo/.android/build-cache/4c2b7881ebe654b7c1423f9732d9d0d4637e26c5/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/joseluiscastillo/.android/build-cache/3dea64b96a953c8380ee528bfbebec2d43fd4613/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/joseluiscastillo/.android/build-cache/adb7bb469a87cb7794ee7b7acecd163aac3ea934/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joseluiscastillo/.android/build-cache/6442e85f39233dbddb15007af0cc265a671a9f9e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/386befc49185bca9ecd0126ea380ba2e90c4eae7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/0fbf0c1ae19f73c2e71a47e0b077ed2fe1e214db/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/c58e12c6bb73737a92fe9581407f930f83cd1e91/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/386befc49185bca9ecd0126ea380ba2e90c4eae7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/0fbf0c1ae19f73c2e71a47e0b077ed2fe1e214db/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/c58e12c6bb73737a92fe9581407f930f83cd1e91/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/386befc49185bca9ecd0126ea380ba2e90c4eae7/output/AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/joseluiscastillo/.android/build-cache/386befc49185bca9ecd0126ea380ba2e90c4eae7/output/AndroidManifest.xml:23:9-47

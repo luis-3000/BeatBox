@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/4c2b7881ebe654b7c1423f9732d9d0d4637e26c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e475244e8aa033fe535c4c1c9d932a39854a10b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/3dea64b96a953c8380ee528bfbebec2d43fd4613/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f485cda8c600c78cfc58d981ee2bc3b313eca4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_080c4a77db0baa388d7a221663af8ed3b3c48b92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/adb7bb469a87cb7794ee7b7acecd163aac3ea934/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99b15db9b8b48da35c012a8e83dfc7eea2f7f53c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65f9cf830288554e9af62ad9f7ba6ac72ecb9152">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d625510bcbad6fa014e1cfd599c588a91db3606b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/adb7bb469a87cb7794ee7b7acecd163aac3ea934/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f6e250f15881cefae6fe2be8cae5897381157e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/6442e85f39233dbddb15007af0cc265a671a9f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d91160b905c3dd67a7e121959713d54e5c2acb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9e36e82cdc4fc25c716ae03bc650dec5924b3c99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/386befc49185bca9ecd0126ea380ba2e90c4eae7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_098985c9692b70b14a56ac0192ab6adf5287ed89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/084badc4de9a0ab32465101cd47f7ba867399734/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4943d0908aafecd4af279d18c0ea7c7358b5fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/c58e12c6bb73737a92fe9581407f930f83cd1e91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a04c4376353c25d5a230576dcfde7d68cd347fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_13300b99756f938a1048e3126b0f69834e888fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joseluiscastillo/.android/build-cache/0fbf0c1ae19f73c2e71a47e0b077ed2fe1e214db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38c459674263076761fab5037acc5885916d0fc3/classes.dex" />
+    </item>
+
+</items>
