@@ -1,7 +1,0 @@
-#Sat May 13 16:14:35 CDT 2017
-base.0=/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_080c4a77db0baa388d7a221663af8ed3b3c48b92
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d625510bcbad6fa014e1cfd599c588a91db3606b/classes.dex
-base.1=/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d625510bcbad6fa014e1cfd599c588a91db3606b
-file.0=/Users/joseluiscastillo/Documents/ProgrammingProjects/AndroidStudioProjects/BeatBox/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_080c4a77db0baa388d7a221663af8ed3b3c48b92/classes.dex
